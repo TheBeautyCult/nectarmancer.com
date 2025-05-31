@@ -53,7 +53,6 @@ social:
 # - {icon: "fa-brands fa-facebook", name: "Facebook", link: "https://facebook.com"}
 - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.gamedev.place/@donnotron"}
 - {icon: "fa-brands fa-steam", name: "Steam", link: "https://store.steampowered.com/app/739790/The_Beauty_Cults_NECTARMANCER/"}
-# - {icon: "fa-brands fa-spotify", name: "Spotify", link: "https://spotify.com"}
 # - {icon: "fa-brands fa-vimeo-v", name: "Vimeo", link: "https://vimeo.com"}
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-pinterest", name: "Pinterest", link: "https://pinterest.com"}
